@@ -1,4 +1,3 @@
-### Hi there, this is Jiasheng 😊
 
 ![1182515](https://user-images.githubusercontent.com/96930989/210025432-cd2dc0be-a301-4812-9527-09dca5da4b05.jpg)
 
