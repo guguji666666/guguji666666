@@ -1,4 +1,4 @@
-![nuoya](https://user-images.githubusercontent.com/96930989/210025750-f5becb00-0067-4754-be14-dd06e1cd244b.png)
+![51ultraman](https://user-images.githubusercontent.com/96930989/210032020-69d11407-78ea-4ae1-9a5a-8c7952c4e765.png)
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
