@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm guguji</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guguji666666&label=Profile%20views&color=0e75b6&style=flat" alt="guguji666666" /> </p>
 
-![1118764](https://user-images.githubusercontent.com/96930989/210066355-264be8c4-58ee-4b34-9b1c-5e67da564d46.jpg)
+![telijia](https://user-images.githubusercontent.com/96930989/210160871-1ad018d4-1d29-4b42-97f9-533b2824cfdd.jpg)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guguji666666" alt="guguji666666" /></a> </p>
 
