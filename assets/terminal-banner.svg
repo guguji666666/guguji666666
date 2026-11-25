@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="218" viewBox="0 0 1120 218" role="img" aria-labelledby="title desc">
+  <title id="title">guguji666666 · Site reliability engineer · Shanghai</title>
+  <desc id="desc">A dark terminal window with a green prompt and three outlined server racks.</desc>
+  <defs>
+    <linearGradient id="background" x2="100%" y2="100%" gradientUnits="objectBoundingBox">
+      <stop stop-color="#141b22"/><stop offset="1" stop-color="#0b1016"/>
+    </linearGradient>
+    <g id="unit" fill="none" stroke="#9bf4b0" stroke-width="1.6">
+      <path d="M0 14 19 0h66l13 13v99H0z M0 14h85l13-1 M85 14v98 M85 14 71 0"/>
+      <path d="M9 29h44m-44 7h37m-37 16h44m-44 7h37m-37 16h44m-44 7h37" stroke-width="1"/>
+      <g fill="#93ec78" stroke="none">
+        <circle cx="65" cy="32" r="2.5"/><circle cx="74" cy="32" r="2.5"/>
+        <circle cx="65" cy="55" r="2.5"/><circle cx="74" cy="55" r="2.5"/>
+        <circle cx="65" cy="78" r="2.5"/><circle cx="74" cy="78" r="2.5"/>
+      </g>
+    </g>
+  </defs>
+  <rect x="1" y="1" width="1118" height="216" rx="12" fill="url(#background)" stroke="#38424b" stroke-width="2"/>
+  <circle cx="31" cy="27" r="8" fill="#ff796b"/><circle cx="57" cy="27" r="8" fill="#f3cb64"/><circle cx="83" cy="27" r="8" fill="#70d978"/>
+  <g font-family="Menlo, Consolas, monospace">
+    <text x="34" y="118" font-size="49" font-weight="bold" fill="#a9f475">&gt;</text>
+    <text x="90" y="118" font-size="55" font-weight="bold" fill="#f0f3f7">guguji666666</text>
+    <text x="92" y="160" font-size="22" fill="#c1cbd4">Site reliability engineer · Shanghai</text>
+  </g>
+  <g stroke-linejoin="round">
+    <use href="#unit" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#unit" transform="translate(725 82) scale(.90)"/>
+    <use href="#unit" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#unit" transform="translate(826 53) scale(1.16)"/>
+    <use href="#unit" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#unit" transform="translate(956 82) scale(.90)"/>
+    <path d="M691 183h386" stroke="#9bf4b0" stroke-width="1.6"/>
+  </g>
+</svg>

@@ -1,33 +1,33 @@
+![guguji666666 — Site reliability engineer in Shanghai](./assets/terminal-banner.svg)
+
 **English** · [简体中文](./README.zh-CN.md)
 
-# guguji666666
+## I have experience in
 
-Site reliability engineer · Shanghai
-
-I have experience in
-
-- Deploying services on Google Kubernetes Engine (GKE) and troubleshooting failed rollouts.
-- Helping enterprise customers investigate Microsoft Defender alerts and resolve sign-in issues with Entra ID and MFA.
-- Writing Python and PowerShell tools for routine maintenance, with dry runs and checks after each batch.
-- Reproducing authentication issues in a test environment and writing troubleshooting guides for support teams.
+- Deploying services on GKE and troubleshooting failed rollouts.
+- Investigating Defender alerts and resolving sign-in issues with Entra ID and MFA.
+- Automating maintenance with Python and PowerShell, including dry runs and post-change checks.
+- Reproducing authentication issues in a lab and writing troubleshooting guides for support teams.
 
 ## Skills in practice
 
-- **Cloud infrastructure and delivery** · Deploy services on GCP and GKE, manage configuration with Terraform, ship changes with Helm and Argo CD, and investigate incidents with New Relic and Pod logs.
-- **Cloud security and identity** · Analyze security logs with Microsoft Sentinel and KQL, investigate Defender alerts, and troubleshoot sign-in issues involving Entra ID, AD FS and MFA.
-- **Scripting and tools** · Write Python and PowerShell automation. For bulk Kubernetes maintenance, I've built in dry runs, batch confirmation and checks on the outcome.
+| Area | Tools |
+| --- | --- |
+| **Cloud delivery** | `GKE` · `Terraform` · `Helm` · `Argo CD` |
+| **Security & identity** | `Sentinel` · `KQL` · `Defender` · `Entra ID` |
+| **Automation** | `Python` · `PowerShell` |
 
-## Most-starred public repositories
-
-These four share the top spot among my public, non-fork repositories, with two stars each as of November 2026.
+## Most-starred repositories
 
 | Repository | What you'll find |
 | --- | --- |
-| [Active-Directoy-Lab](https://github.com/guguji666666/Active-Directoy-Lab) | PowerShell configuration for a Windows domain lab, including TLS, static IP addresses and DNS. |
-| [GJS-AAD-Auth](https://github.com/guguji666666/GJS-AAD-Auth) | Hybrid identity lab notes covering Okta, single sign-on, Remote Desktop and MFA integration. |
-| [GJS-Sentinel-Tips](https://github.com/guguji666666/GJS-Sentinel-Tips) | A Microsoft Sentinel guide to connecting data sources, finding log tables and troubleshooting common issues. |
-| [GJS-MDC-Tips](https://github.com/guguji666666/GJS-MDC-Tips) | A Defender for Cloud reference covering supported configurations, server protection and deployment questions. |
+| [Active-Directoy-Lab](https://github.com/guguji666666/Active-Directoy-Lab) | PowerShell scripts for a Windows domain lab |
+| [GJS-AAD-Auth](https://github.com/guguji666666/GJS-AAD-Auth) | Hybrid identity labs with Okta, single sign-on and MFA |
+| [GJS-Sentinel-Tips](https://github.com/guguji666666/GJS-Sentinel-Tips) | Log integration and troubleshooting in Microsoft Sentinel |
+| [GJS-MDC-Tips](https://github.com/guguji666666/GJS-MDC-Tips) | A deployment and configuration reference for Defender for Cloud |
 
 ## Project inquiries
 
-I take on projects involving Python automation, public data collection and cleanup, and internal tool development. Tell me what you’d like to build or automate. A sample input and an example of the result you need are helpful. [Contact me on X](https://x.com/guguuj)
+I build Python automations and internal tools, and help collect and clean public data. If you have a project in mind, send me a sample input and the result you need.
+
+[Contact me on X ↗](https://x.com/guguuj)
