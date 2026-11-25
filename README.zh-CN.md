@@ -28,6 +28,6 @@
 | [GJS-Sentinel-Tips](https://github.com/guguji666666/GJS-Sentinel-Tips) | Microsoft Sentinel 数据源接入、日志表查找和常见问题排查指南。 |
 | [GJS-MDC-Tips](https://github.com/guguji666666/GJS-MDC-Tips) | Defender for Cloud 支持范围、服务器保护部署和常见配置问题速查。 |
 
-## 工作与合作
+## 项目合作
 
-我在看 SRE、平台工程和云安全技术支持岗位，也承接 Python 自动化、公开数据采集与整理、内部小工具开发。项目合作欢迎带上一个输入样例，以及你希望拿到的结果。[通过 X 联系我](https://x.com/guguuj)
+我承接 Python 自动化、公开数据采集与整理、内部工具开发。如果你有项目需求，欢迎说说想做什么。有输入样例和预期结果的话，也可以一起发来。[通过 X 联系我](https://x.com/guguuj)

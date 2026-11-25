@@ -28,6 +28,6 @@ These four share the top spot among my public, non-fork repositories, with two s
 | [GJS-Sentinel-Tips](https://github.com/guguji666666/GJS-Sentinel-Tips) | A Microsoft Sentinel guide to connecting data sources, finding log tables and troubleshooting common issues. |
 | [GJS-MDC-Tips](https://github.com/guguji666666/GJS-MDC-Tips) | A Defender for Cloud reference covering supported configurations, server protection and deployment questions. |
 
-## Work with me
+## Project inquiries
 
-I'm open to SRE, platform engineering and cloud security support roles. I also take on freelance projects in Python automation, public data collection and cleanup, and internal tools. For a project inquiry, a sample input and the output you need are a good place to start. [Contact me on X](https://x.com/guguuj)
+I take on projects involving Python automation, public data collection and cleanup, and internal tool development. Tell me what you’d like to build or automate. A sample input and an example of the result you need are helpful. [Contact me on X](https://x.com/guguuj)
