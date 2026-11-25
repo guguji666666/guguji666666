@@ -4,17 +4,21 @@
 
 ## 我的工作经验
 
-- 在 GKE 上部署服务，排查发布失败的原因。
-- 调查 Defender 告警，排查 Entra ID 登录和多因素认证（MFA）问题。
+- 在 GKE 上部署服务，遇到云资源访问问题时核查工作负载身份映射、服务账号权限和 VPC 防火墙规则。
+- 协助企业客户调查 Microsoft Defender 告警，涉及终端、身份和云工作负载。
+- 在 Microsoft Sentinel 中编写 KQL 查询，筛查短时间内重复登录失败的记录，并为本地 Active Directory 账号设计响应流程。
+- 排查 Entra ID 与 AD FS 混合身份登录问题，结合 MFA 要求、条件访问策略和 Intune 设备合规状态判断访问受阻的原因。
+- 协调 AD 和远程桌面团队，将一次登录故障定位到域名与证书校验环节，并把核查步骤整理成排障指南。
 - 用 Python 和 PowerShell 自动化日常维护，支持变更预演和执行后检查。
-- 在实验环境复现认证问题，为技术支持团队编写排障指南。
 
 ## 技能与实践
 
-| 领域 | 工具 |
+| 领域 | 工具与实践 |
 | --- | --- |
 | **云平台交付** | `GKE` · `Terraform` · `Helm` · `Argo CD` |
-| **安全与身份认证** | `Sentinel` · `KQL` · `Defender` · `Entra ID` |
+| **威胁检测** | Microsoft Sentinel · `KQL` · Defender for Endpoint、Identity 和 Cloud |
+| **身份与设备安全** | `Entra ID` · `AD FS` · `条件访问` · `MFA` · `Intune` |
+| **云访问控制** | GKE Workload Identity · 服务账号权限 · VPC 防火墙规则 |
 | **自动化** | `Python` · `PowerShell` |
 
 ## 获 Star 最多的仓库

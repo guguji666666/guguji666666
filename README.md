@@ -4,17 +4,21 @@
 
 ## I have experience in
 
-- Deploying services on GKE and troubleshooting failed rollouts.
-- Investigating Defender alerts and resolving sign-in issues with Entra ID and MFA.
-- Automating maintenance with Python and PowerShell, including dry runs and post-change checks.
-- Reproducing authentication issues in a lab and writing troubleshooting guides for support teams.
+- Deploying services on GKE and diagnosing access failures by checking workload identity mappings, service account permissions and VPC firewall rules.
+- Helping enterprise customers investigate Microsoft Defender alerts across endpoints, identities and cloud workloads.
+- Writing KQL queries in Microsoft Sentinel to detect repeated sign-in failures and designing a response workflow for on-premises Active Directory accounts.
+- Troubleshooting hybrid sign-in with Entra ID and AD FS, including how MFA requirements, Conditional Access policies and Intune device compliance affect access.
+- Coordinating with Active Directory and Remote Desktop teams to trace a sign-in failure to domain name and certificate validation, then documenting the checks for support engineers.
+- Automating routine maintenance with Python and PowerShell, including dry runs and post-change checks.
 
 ## Skills in practice
 
-| Area | Tools |
+| Area | Tools and practices |
 | --- | --- |
 | **Cloud delivery** | `GKE` · `Terraform` · `Helm` · `Argo CD` |
-| **Security & identity** | `Sentinel` · `KQL` · `Defender` · `Entra ID` |
+| **Threat detection** | Microsoft Sentinel · `KQL` · Defender for Endpoint, Identity and Cloud |
+| **Identity & device security** | `Entra ID` · `AD FS` · `Conditional Access` · `MFA` · `Intune` |
+| **Cloud access controls** | GKE Workload Identity · service account permissions · VPC firewall rules |
 | **Automation** | `Python` · `PowerShell` |
 
 ## Most-starred repositories
