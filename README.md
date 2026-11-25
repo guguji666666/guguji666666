@@ -1,54 +1,28 @@
-<h1 align="center">🐣 你好！Hello! I'm Jiasheng 🐥</h1>
+**简体中文** · [English](./README.en.md)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=guguji666666&label=Profile%20views&color=0e75b6&style=flat" alt="guguji666666" />
-</p>
+# 顾佳晟 Jiasheng Gu
 
-<img src="https://user-images.githubusercontent.com/96930989/210160871-1ad018d4-1d29-4b42-97f9-533b2824cfdd.jpg" alt="telijia" width="100%" style="border-radius: 12px;" />
+我在上海做站点可靠性工程（SRE），之前为企业客户排查过 Microsoft 云安全和身份认证问题。工作中我用 Terraform、Helm 和 Argo CD 在 GKE 上交付服务，也用 Python 和 PowerShell 把重复操作写成工具。
 
----
+遇到陌生的认证问题，我习惯先搭测试环境，分段验证登录流程，再把配置和排查步骤整理成笔记。
 
-### 🧠 About Me
+## 技能与实践
 
-- 🔭 I’m currently working on something interesting...
-- 🌱 I’m currently learning **Cloud Security & DevOps**
-- 📝 I regularly write technical guides and scripts
-- 📫 Reach me via [Twitter](https://twitter.com/guguuj)
+- **云平台与交付** · 在 GCP / GKE 上部署服务，用 Terraform 管理配置，用 Helm 和 Argo CD 发布，用 New Relic 和 Pod 日志排查故障。
+- **云安全与身份认证** · 用 Microsoft Sentinel 和 KQL 分析安全日志，排查 Defender 告警，以及 Entra ID、AD FS 和 MFA 登录问题。
+- **脚本与工具** · 用 Python 和 PowerShell 编写运维脚本，为 Kubernetes 批量维护加入变更预演、分批确认和结果检查。
 
----
+## 获 Star 最多的公开仓库
 
-### 🏆 GitHub Trophies
+以下四个项目在我的非 Fork 公开仓库中并列第一（2026 年 11 月，各 2 Star）。
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=guguji666666&theme=gruvbox&title=Stars,Followers,Commit,Repositories&margin-w=15" alt="GitHub Trophy" />
-</a>
+| 仓库 | 内容 |
+| --- | --- |
+| [Active-Directoy-Lab](https://github.com/guguji666666/Active-Directoy-Lab) | 搭建 Windows 域实验环境时使用的 PowerShell 配置，包括 TLS、静态 IP 和 DNS。 |
+| [GJS-AAD-Auth](https://github.com/guguji666666/GJS-AAD-Auth) | 混合身份认证实验笔记，涵盖 Okta、单点登录、远程桌面和 MFA 集成。 |
+| [GJS-Sentinel-Tips](https://github.com/guguji666666/GJS-Sentinel-Tips) | Microsoft Sentinel 数据源接入、日志表查找和常见问题排查指南。 |
+| [GJS-MDC-Tips](https://github.com/guguji666666/GJS-MDC-Tips) | Defender for Cloud 支持范围、服务器保护部署和常见配置问题速查。 |
 
----
+## 工作与合作
 
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=guguji666666&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=default" alt="Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=guguji666666&hide_border=true&theme=default" alt="Streak" /></td>
-  </tr>
-</table>
-
----
-
-### 🧰 Tech Stack
-
-<p>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p>
-  <a href="https://twitter.com/guguuj" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/guguuj?logo=twitter&style=for-the-badge" alt="Follow @guguuj on Twitter" />
-  </a>
-</p>
+我在看 SRE、平台工程和云安全技术支持岗位，也承接 Python 自动化、公开数据采集与整理、内部小工具开发。项目合作欢迎带上一个输入样例，以及你希望拿到的结果。[通过 X 联系我](https://x.com/guguuj)
