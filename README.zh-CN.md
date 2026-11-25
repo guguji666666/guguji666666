@@ -1,4 +1,4 @@
-[![guguji666666 · 站点可靠性与云安全 · 上海 · 金甲炎帝](./assets/flame-emperor-banner.webp)](https://sina.cn/news/detail/5367963122401431.html)
+[![Jiasheng Gu · 站点可靠性与云安全 · 上海 · 金甲炎帝](./assets/flame-emperor-banner.webp)](https://sina.cn/news/detail/5367963122401431.html)
 
 [English](./README.md) · **简体中文**
 
