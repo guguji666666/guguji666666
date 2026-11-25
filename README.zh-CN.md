@@ -2,9 +2,14 @@
 
 # guguji666666
 
-我在上海做站点可靠性工程（SRE），之前为企业客户排查过 Microsoft 云安全和身份认证问题。工作中我用 Terraform、Helm 和 Argo CD 在 GKE 上交付服务，也用 Python 和 PowerShell 把重复操作写成工具。
+站点可靠性工程师（SRE） · 上海
 
-遇到陌生的认证问题，我习惯先搭测试环境，分段验证登录流程，再把配置和排查步骤整理成笔记。
+我的工作经验包括
+
+- 在 Google Kubernetes Engine（GKE）上部署服务，排查发布失败的原因。
+- 协助企业客户调查 Microsoft Defender 告警，排查 Entra ID 登录和多因素认证（MFA）问题。
+- 用 Python 和 PowerShell 编写日常维护工具，支持变更预演和逐批检查执行结果。
+- 搭建测试环境复现认证问题，为技术支持团队编写排障指南。
 
 ## 技能与实践
 

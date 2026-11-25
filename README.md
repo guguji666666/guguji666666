@@ -2,9 +2,14 @@
 
 # guguji666666
 
-I'm a site reliability engineer based in Shanghai. Before moving into SRE, I helped enterprise customers troubleshoot Microsoft cloud security and identity issues. I deploy services on GKE with Terraform, Helm and Argo CD, and write Python and PowerShell tools for recurring operations.
+Site reliability engineer · Shanghai
 
-When I run into an unfamiliar authentication issue, I set up a test environment, check each step of the sign-in flow, and document what I find.
+I have experience in
+
+- Deploying services on Google Kubernetes Engine (GKE) and troubleshooting failed rollouts.
+- Helping enterprise customers investigate Microsoft Defender alerts and resolve sign-in issues with Entra ID and MFA.
+- Writing Python and PowerShell tools for routine maintenance, with dry runs and checks after each batch.
+- Reproducing authentication issues in a test environment and writing troubleshooting guides for support teams.
 
 ## Skills in practice
 
